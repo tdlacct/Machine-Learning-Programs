@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Machine Learning", "Machine Learning.csproj", "{C3D10DDD-9DDB-2A5C-1099-DB93AFD6F444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Machine Learning.Plugins", "Machine Learning.Plugins.csproj", "{EC3026FC-C975-D2D6-7ED1-3296922023E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Machine Learning.Editor.Plugins", "Machine Learning.Editor.Plugins.csproj", "{B40A1E69-5123-555C-046C-FD9B2F064112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3D10DDD-9DDB-2A5C-1099-DB93AFD6F444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D10DDD-9DDB-2A5C-1099-DB93AFD6F444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D10DDD-9DDB-2A5C-1099-DB93AFD6F444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D10DDD-9DDB-2A5C-1099-DB93AFD6F444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3026FC-C975-D2D6-7ED1-3296922023E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3026FC-C975-D2D6-7ED1-3296922023E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3026FC-C975-D2D6-7ED1-3296922023E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3026FC-C975-D2D6-7ED1-3296922023E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40A1E69-5123-555C-046C-FD9B2F064112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40A1E69-5123-555C-046C-FD9B2F064112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40A1E69-5123-555C-046C-FD9B2F064112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40A1E69-5123-555C-046C-FD9B2F064112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

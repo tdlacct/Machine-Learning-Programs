@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving GAs with Senses.Plugins", "Moving GAs with Senses.Plugins.csproj", "{022DE314-4924-D030-12CA-AD866F460E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving GAs with Senses", "Moving GAs with Senses.csproj", "{E7BA3519-B474-9EE3-1BD9-80C0DD1E92CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving GAs with Senses.Editor.Plugins", "Moving GAs with Senses.Editor.Plugins.csproj", "{CCD312A5-0D2C-AF4A-568F-ED5C6B88EA8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022DE314-4924-D030-12CA-AD866F460E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022DE314-4924-D030-12CA-AD866F460E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022DE314-4924-D030-12CA-AD866F460E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022DE314-4924-D030-12CA-AD866F460E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BA3519-B474-9EE3-1BD9-80C0DD1E92CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BA3519-B474-9EE3-1BD9-80C0DD1E92CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BA3519-B474-9EE3-1BD9-80C0DD1E92CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BA3519-B474-9EE3-1BD9-80C0DD1E92CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD312A5-0D2C-AF4A-568F-ED5C6B88EA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD312A5-0D2C-AF4A-568F-ED5C6B88EA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD312A5-0D2C-AF4A-568F-ED5C6B88EA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD312A5-0D2C-AF4A-568F-ED5C6B88EA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
